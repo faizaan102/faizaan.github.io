@@ -1,10 +1,10 @@
 <html>
- <body>
- 
- 
- <h2> iframe-bescom davanagere </h2>
- <iframe src="bescom.html" name="iframe_a" height="300px" width="100%"></iframe>
- <iframe src="bescom1.html" name="iframe_a" height="300px" width="100%"></iframe>
- 
+ <title> www.login.com</title>
+ <body bgcolor="grey" leftmargin="800">
+ Enter e-mail id/phone  no :<br>
+ <input  type="text"><br>
+ Enter  password:<br>
+ <input  type="password"><br>
+ <input  type="button"  value="Login"
  </body>
  </html>
